@@ -1,7 +1,7 @@
 # CarND-Controls-MPC
 Self-Driving Car Engineer Nanodegree Program
 
-![simulation](./picture/Simulation.png)
+![simulation](./picture/simulation.png)
 
 * Yellow Line : The waypoints/reference line
 * Green Line : The MPC predict trajectory
@@ -14,7 +14,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ### Bicycle model
 
-![vehicle dynamics](./picture/VehicleDynamic.png)
+![vehicle dynamics](./picture/VehicleDynamic.PNG)
 
 
 * **X**,**Y** : global axes
